@@ -56,6 +56,6 @@
 <img src="https://github.com/K-ji-eun/pknu-raspberrypi-2023/blob/main/images/raspberrypi01.jpg" width="700">
 
 WPF 모니터링, 컨트롤화면
-<img src="[https://github.com/K-ji-eun/pknu-raspberrypi-2023/blob/main/images/raspberrypi02.jpg](https://github.com/K-ji-eun/pknu-raspberrypi-2023/blob/main/images/raspberrypi02.png)https://github.com/K-ji-eun/pknu-raspberrypi-2023/blob/main/images/raspberrypi02.png" width="700">
+<img src="https://github.com/K-ji-eun/pknu-raspberrypi-2023/blob/main/images/raspberrypi02.png" width="700">
 
 
