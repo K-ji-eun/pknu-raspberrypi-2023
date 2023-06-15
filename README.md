@@ -60,4 +60,7 @@ WPF 모니터링, 컨트롤화면
 
 <img src="https://github.com/K-ji-eun/pknu-raspberrypi-2023/blob/main/images/raspberrypi02.png" width="700">
 
-
+## 7일차
+- 라즈베리 학습
+	- 파이카메라 v1.3 ov5647
+	- OpenCV 4.7
